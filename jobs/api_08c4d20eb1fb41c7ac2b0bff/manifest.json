@@ -1,0 +1,32 @@
+{
+  "job_id": "api_08c4d20eb1fb41c7ac2b0bff",
+  "mode": "zip_split",
+  "file_url": "https://free-dl10.myalphadl.com/pPiYclZGXxobi0P-d3qpDg/ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL.mkv",
+  "suggested_filename": "ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL.mkv",
+  "total_size_bytes": 364114980,
+  "created_at_utc": "2026-05-22T04:39:34.210689+00:00",
+  "zip_folder": "jobs/api_08c4d20eb1fb41c7ac2b0bff/zip",
+  "zip_main_file": "ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_08c4d20eb1fb41c7ac2b0bff/zip/ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL_split.z02",
+      "path": "jobs/api_08c4d20eb1fb41c7ac2b0bff/zip/ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL_split.z03",
+      "path": "jobs/api_08c4d20eb1fb41c7ac2b0bff/zip/ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_08c4d20eb1fb41c7ac2b0bff/zip/ONE.PIECE.S02E01.720p.x265.WEBRip.10bit.PSA.AlphaDL_split.zip",
+      "size_bytes": 80999724
+    }
+  ]
+}
